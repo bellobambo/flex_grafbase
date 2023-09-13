@@ -5,7 +5,7 @@ import React from "react";
 import AuthProviders from "./AuthProviders";
 
 export default function Navbar() {
-  const session = {};
+  const session = null;
 
   return (
     <nav className="flexBetween navbar">
